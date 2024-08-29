@@ -1,0 +1,1 @@
+ALTER TABLE registrantion_table MODIFY phone VARCHAR(200);
